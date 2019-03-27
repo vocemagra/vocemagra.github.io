@@ -135,7 +135,7 @@ body {
   background-color: #2daaa2 !important;
 }
 .bg-success {
-  background-color: #f7ed4a !important;
+  background-color: #ffffff !important;
 }
 .bg-info {
   background-color: #82786e !important;
@@ -208,23 +208,23 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
-  color: #3f3c03 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+  color: #808080 !important;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus,
 .btn-success.active {
-  color: #3f3c03 !important;
-  background-color: #eadd0a !important;
-  border-color: #eadd0a !important;
+  color: #808080 !important;
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
-  color: #3f3c03 !important;
-  background-color: #eadd0a !important;
-  border-color: #eadd0a !important;
+  color: #808080 !important;
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -372,22 +372,22 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background: none;
-  border-color: #d2c609;
-  color: #d2c609;
+  border-color: #cccccc;
+  color: #cccccc;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
-  color: #3f3c03;
-  background-color: #f7ed4a;
-  border-color: #f7ed4a;
+  color: #808080;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
-  color: #3f3c03 !important;
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
+  color: #808080 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -470,7 +470,7 @@ body {
   color: #ff7d26 !important;
 }
 .text-success {
-  color: #f7ed4a !important;
+  color: #ffffff !important;
 }
 .text-info {
   color: #82786e !important;
@@ -497,7 +497,7 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #d2c609 !important;
+  color: #cccccc !important;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -1422,10 +1422,11 @@ body {
   color: #cccccc;
 }
 .cid-rlSLTec18H H1 {
-  color: #232323;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-rlSLTec18H B {
-  color: #f7ed4a;
+  color: #ffffff;
 }
 .cid-rlVA46xEVr {
   padding-top: 60px;
