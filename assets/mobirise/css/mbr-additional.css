@@ -485,7 +485,7 @@ body {
   color: #ffffff !important;
 }
 .text-black {
-  color: #ffffff !important;
+  color: #000000 !important;
 }
 a.text-primary:hover,
 a.text-primary:focus {
@@ -1425,7 +1425,7 @@ body {
   color: #232323;
 }
 .cid-rlSLTec18H B {
-  color: #ffffff;
+  color: #f7ed4a;
 }
 .cid-rlT0rIZy6E {
   padding-top: 90px;
